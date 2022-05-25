@@ -1,2 +1,2 @@
 # goBaber
-repository for studies in node.js
+Repository for learning on node.js
